@@ -1,0 +1,42 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    It showed the exact lines where there were any differences between the two files,
+    which made it easy to magnify in on the problem without wasting time searching.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    It will show you exactly where a bug was introduced (often by yourself). It also
+    allows you to go back over previous versions and compare them against each other
+    to see what changed (the difference: diff).
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Pros: You have less versions to crawl through, and you know each version (commit)
+    is important and specific. Cons: Your work isn't being saved constantly.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Because the files in a Git repository are interconnected, even if only 1/3 files
+    (for example) are changed in a single upload (commit).
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Git log shows you a list (most recent at top) of every commit to the repository
+    with each commit having a unique ID. Git diff followed by two commit ID's (most
+    recent last) shows you the exact line-by-line differences between these two commits.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Much more confident because you know if you break something you can go back and see
+    exactly what you did quickly and easily (and compare to your own notes, which shows
+    what may have been added/deleted by mistake).
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Everything!
