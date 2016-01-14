@@ -8,3 +8,11 @@ stay up-to-date with your remote repository?
     Because you may not be ready for the world to see something you're working on (for
     a number of reasons), especially if, as in most cases, it will take several commits
     to complete.
+
+Describe the differences between forks, clones, and branches. When would you use one
+instead of another?
+
+    'Forks' are essentially GitHub's version of a clone. When you 'fork' a repo from
+    another GitHub user you make a clone of it on your profile. When you clone a repo
+    (whether from GitHub or a local repo) you're doing so on your local machine.
+    Branches are separate arms (branches) within a repo.
