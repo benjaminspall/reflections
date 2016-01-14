@@ -29,3 +29,12 @@ would be harder?
     By naming your files with different version numbers (file1.txt, file2.txt, etc)
     and emailing them between collaborators. But it would be highly inefficient
     compared to using Git and GitHub.
+
+When would you want to make changes in a separate branch rather than directly in
+master? What benefits does each approach have?
+
+    When you're working on a project in collaboration with others (regardless of
+    how small the project is), or if your changes are experimental, or otherwise
+    large enough to potentially cause a bug. The benefits of making changes directly
+    in master, if you're working on a project alone, is that less time and effort is
+    involved in committing these changes.
