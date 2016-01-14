@@ -16,3 +16,9 @@ instead of another?
     another GitHub user you make a clone of it on your profile. When you clone a repo
     (whether from GitHub or a local repo) you're doing so on your local machine.
     Branches are separate arms (branches) within a repo.
+
+What is the benefit of having a copy of the last known state of the remote stored
+locally?
+
+    It allows you to log commits on your local machine without internet access, all
+    while using the most recent version of the remote.
