@@ -22,3 +22,10 @@ locally?
 
     It allows you to log commits on your local machine without internet access, all
     while using the most recent version of the remote.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what
+would be harder?
+
+    By naming your files with different version numbers (file1.txt, file2.txt, etc)
+    and emailing them between collaborators. But it would be highly inefficient
+    compared to using Git and GitHub.
